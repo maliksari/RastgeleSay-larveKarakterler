@@ -1,4 +1,4 @@
-# RastgeleSay-larveKarakterler
+# Rastgele Saylar ve Karakterler
 Python İle rastgele karakter ve rastgele sayı 
 Rastgele Sayı üreteci olarak MERSENNE TWİSTER Algoritması kullanılmıştır....
 
