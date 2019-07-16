@@ -11,7 +11,7 @@ Günümüzde random sayı üreteçleri donanımsal özellikleri kullanarak (sist
 Algoritma, Makoto Matsumoto ve Takuji Nishimura  tarafından 1998 yılında tanıtılmıştır. Temel olarak algoritma çekirdeği 19,937 bit uzunluğunda, bu bitler 624 değişik dizi de tutuluyor ve bunlardan 623 tanesi kullanılırken son dizi elemanı ve kalan 31 kullanılmıyor. XOR ile kaydırma kaydedicileri her seferinde dizi elemanlarını birer kere kaydırıyor. Kaydırma periyodu 2^19937-1 (yani Mersenne asal sayıları, algoritmanın ismi de buradan geliyor) olduğu için her periyod ta dizi içindeki bitler rastgele kaydırılmış oluyor.
 
 
-Mersenne Twister doğrusal kaydırıcısının mantıksal gösterimi	
+
 
 
 Algoritmanın pseudo kodu aşağıdaki gibidir;
